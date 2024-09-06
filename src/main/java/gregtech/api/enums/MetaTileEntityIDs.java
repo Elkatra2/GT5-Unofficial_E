@@ -1914,7 +1914,8 @@ public enum MetaTileEntityIDs {
     CoolantTower(32025),
     ComponentAssemblyLine(32026),
     WireLumiium(32737),
-    WireSignalium(32749),;
+    WireSignalium(32749),
+    ChargingBus(31785);
 
     public final int ID;
 
